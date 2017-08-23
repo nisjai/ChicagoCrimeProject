@@ -1,0 +1,98 @@
+[
+  {
+    "year": 2001,
+    "countVehcileDamage": 27258,
+    "countPropertyDamage": 27927,
+    "countStateSupPropDmage": 621
+  },
+  {
+    "year": 2002,
+    "countVehcileDamage": 27042,
+    "countPropertyDamage": 26933,
+    "countStateSupPropDmage": 641
+  },
+  {
+    "year": 2003,
+    "countVehcileDamage": 26786,
+    "countPropertyDamage": 24916,
+    "countStateSupPropDmage": 589
+  },
+  {
+    "year": 2004,
+    "countVehcileDamage": 25241,
+    "countPropertyDamage": 24664,
+    "countStateSupPropDmage": 520
+  },
+  {
+    "year": 2005,
+    "countVehcileDamage": 25827,
+    "countPropertyDamage": 25043,
+    "countStateSupPropDmage": 461
+  },
+  {
+    "year": 2006,
+    "countVehcileDamage": 26146,
+    "countPropertyDamage": 25564,
+    "countStateSupPropDmage": 442
+  },
+  {
+    "year": 2007,
+    "countVehcileDamage": 24441,
+    "countPropertyDamage": 23974,
+    "countStateSupPropDmage": 358
+  },
+  {
+    "year": 2008,
+    "countVehcileDamage": 25104,
+    "countPropertyDamage": 23320,
+    "countStateSupPropDmage": 314
+  },
+  {
+    "year": 2009,
+    "countVehcileDamage": 21973,
+    "countPropertyDamage": 21065,
+    "countStateSupPropDmage": 260
+  },
+  {
+    "year": 2010,
+    "countVehcileDamage": 18910,
+    "countPropertyDamage": 18079,
+    "countStateSupPropDmage": 244
+  },
+  {
+    "year": 2011,
+    "countVehcileDamage": 16998,
+    "countPropertyDamage": 17078,
+    "countStateSupPropDmage": 207
+  },
+  {
+    "year": 2012,
+    "countVehcileDamage": 16505,
+    "countPropertyDamage": 16500,
+    "countStateSupPropDmage": 207
+  },
+  {
+    "year": 2013,
+    "countVehcileDamage": 13837,
+    "countPropertyDamage": 14248,
+    "countStateSupPropDmage": 179
+  },
+  {
+    "year": 2014,
+    "countVehcileDamage": 12697,
+    "countPropertyDamage": 12867,
+    "countStateSupPropDmage": 176
+  },
+  {
+    "year": 2015,
+    "countVehcileDamage": 13630,
+    "countPropertyDamage": 13287,
+    "countStateSupPropDmage": 155
+  },
+  {
+    "year": 2016,
+    "countVehcileDamage": 4099,
+    "countPropertyDamage": 4016,
+    "countStateSupPropDmage": 40
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "year": 2001,
+    "countRobbery": 18441,
+    "countBurglary": 26011
+  },
+  {
+    "year": 2002,
+    "countRobbery": 18522,
+    "countBurglary": 25623
+  },
+  {
+    "year": 2003,
+    "countRobbery": 17332,
+    "countBurglary": 25156
+  },
+  {
+    "year": 2004,
+    "countRobbery": 15978,
+    "countBurglary": 24564
+  },
+  {
+    "year": 2005,
+    "countRobbery": 16047,
+    "countBurglary": 25504
+  },
+  {
+    "year": 2006,
+    "countRobbery": 15968,
+    "countBurglary": 24324
+  },
+  {
+    "year": 2007,
+    "countRobbery": 15450,
+    "countBurglary": 24858
+  },
+  {
+    "year": 2008,
+    "countRobbery": 16703,
+    "countBurglary": 26219
+  },
+  {
+    "year": 2009,
+    "countRobbery": 15979,
+    "countBurglary": 26765
+  },
+  {
+    "year": 2010,
+    "countRobbery": 14273,
+    "countBurglary": 26422
+  },
+  {
+    "year": 2011,
+    "countRobbery": 13980,
+    "countBurglary": 26617
+  },
+  {
+    "year": 2012,
+    "countRobbery": 13483,
+    "countBurglary": 22841
+  },
+  {
+    "year": 2013,
+    "countRobbery": 11819,
+    "countBurglary": 17893
+  },
+  {
+    "year": 2014,
+    "countRobbery": 9801,
+    "countBurglary": 14570
+  },
+  {
+    "year": 2015,
+    "countRobbery": 9647,
+    "countBurglary": 13162
+  },
+  {
+    "year": 2016,
+    "countRobbery": 3037,
+    "countBurglary": 3643
+  }
+]
